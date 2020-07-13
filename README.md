@@ -1,0 +1,2 @@
+# stocktrade
+Predicting stock trading
